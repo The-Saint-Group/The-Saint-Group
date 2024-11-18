@@ -1,28 +1,28 @@
-## 👋 Привет! Я Марченко Артём
+## 👋 Hello! I am Artem Marchenko
 
-Я целеустремлённый школьник, увлечённый IT-технологиями. Мне нравится решать сложные задачи и создавать что-то новое. Я активно участвую в различных конкурсах, хакатонах и проектах, постоянно расширяя свои знания и навыки. Обучаюсь в IT школе Samsung.
+I am a single-minded student, passionate about IT technologies. I like to solve difficult tasks and create something new. I actively participate in various contests, hackathons and projects, constantly expanding my knowledge and skills. I study at Samsung IT school.
 
-*О чём этот профиль:*
+* What is this profile about:*
 
-Здесь вы найдёте мои личные проекты, решения задач с конкурсов, а также примеры кода, демонстрирующие мои умения. Я стараюсь постоянно совершенствовать свой код и документировать свои достижения. Пока что проектов не так много, но дальше больше!
+Here you will find my personal projects, solutions to problems from contests, as well as code examples demonstrating my skills. I try to constantly improve my code and document my achievements. So far, there are not so many projects, but more to come!
 
-*Мои навыки:*
+*My skills:*
 
-* *Языки программирования:* Python, JavaScript, C++, Java, Go
-* *Технологии:* HTML, CSS, React, Node.js, SQL, Git
-* *Инструменты:* VS Code, Git, Docker
-* *Другие навыки:* работа в команде, умение быстро обучаться, решение проблем
-
-
-*Мои проекты:*
-
-Сейчас я работаю над несколькими интересными проектами, которые скоро появятся здесь. Следите за обновлениями!
+* *Programming languages:* Python, JavaScript, C++, Java, Go
+* *Technologies:* HTML, CSS, React, Node.js, SQL, Git
+* *Tools:* VS Code, Git, Docker
+* *Other skills:* teamwork, the ability to learn quickly, problem solving
 
 
-*Участие в конкурсах и хакатонах:*
+*My Projects:*
 
-* Хакатон по анализу данных DANO: Участвовал первый раз. Решил попробовать себя в роли аналитика
-* Mobile GameDev Bootcamp: Разрабатывал игру Space Cleaner. Получил максимальный балл за проект. Прошёл в ЛШПИ
-  
+I am currently working on several interesting projects that will appear here soon. Stay tuned!
 
-*P.S.* Я открыт к сотрудничеству и новым проектам!
+
+*Participation in contests and hackathons:*
+
+* DANO Data Analysis Hackathon: Participated for the first time. I decided to try myself as an analyst
+* Mobile GameDev Bootcamp: Developed the Space Cleaner game. I got the maximum score for the project. Passed the LSPI
+ 
+
+*P.S. * I am open to cooperation and new projects!
