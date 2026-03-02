@@ -2,7 +2,7 @@
 
 I am Artem Marchenko and I make it my business to defend the citizens of Saint Petersburg in cybersecurity. I like to solve difficult tasks and create something new. I actively participate in various contests, hackathons and projects, constantly expanding my knowledge and skills. Currently, I am studying at T-Generation on the course of information security in parallel β. 
 
-* What is this profile about:*
+*What is this profile about:*
 
 Here you will find my personal projects, solutions to problems from contests, as well as code examples demonstrating my skills. I try to constantly improve my code and document my achievements. So far, there are not so many projects, but more to come!
 
