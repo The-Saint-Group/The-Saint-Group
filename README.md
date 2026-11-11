@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-I am Artem Marchenko and I make it my business to defend the citizens of Saint Petersburg in cybersecurity. I like to solve difficult tasks and create something new. I actively participate in various contests, hackathons and projects, constantly expanding my knowledge and skills. Currently, I am studying at T-Generation on the course of information security in parallel β. 
+I am Artem Marchenko. I like to solve difficult tasks and create something new. I actively participate in various contests, hackathons and projects, constantly expanding my knowledge and skills. I am currently studying at ITMO.
 
 *What is this profile about:*
 
@@ -35,6 +35,7 @@ Studied Telegram bot development at Innopolis University
 
 Completed a course on Fullstack development in JavaScript from Yandex Practicum
 
+Completed the T-Generation course on information security (group β).
 
 *Participation in contests and hackathons:*
 
